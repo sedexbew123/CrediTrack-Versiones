@@ -2,7 +2,7 @@
 
 <Item>
 	<version>1.1.0.0</version>
-	<url>https://github.com/sedexbew123/CrediTrack-Versiones/raw/refs/heads/main/CrediTrack-v1.1.zip</url>
-	<changelog>https://github.com/sedexbew123/CrediTrack-Versiones/raw/refs/heads/main/Novedades.txt.txt</changelog>
+	<url>https://raw.githubusercontent.com/sedexbew123/CrediTrack-Versiones/main/CrediTrack-v1.1.zip</url>
+	<changelog>https://raw.githubusercontent.com/sedexbew123/CrediTrack-Versiones/main/Novedades.txt.txt</changelog>
 	<mandatory>false</mandatory>
 </Item>
