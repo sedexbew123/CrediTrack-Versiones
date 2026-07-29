@@ -1,3 +1,1 @@
-Se corrigieron bugs
-Se optimo el sistema(mentira)
-Ahí vamos pa lante decía mi comandante
+Se agrego el nombre del sistema a la ventada de actualizacion
