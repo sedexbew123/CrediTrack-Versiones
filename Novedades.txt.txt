@@ -1,2 +1,14 @@
-Se agrego el nombre del sistema a la ventada de actualizacion
-Algo mas...
+✅ Mejoras y correcciones
+1.- Se corrigió un error que impedía registrar correctamente algunos servicios realizados.
+2.- El precio del servicio ahora se completa automáticamente al seleccionarlo.
+3.- Se solucionó un problema que no dejaba eliminar tipos de servicio ni servicios desde el módulo de Configuración.
+4.- Se corrigieron tablas que mostraban columnas repetidas o vacías en Servicios y Control de Trabajo.
+5.- El detalle de deuda ahora muestra correctamente la información cuando el crédito viene de un servicio (antes aparecía en blanco).
+6.- El filtro de mes en Control de Trabajo ahora carga automáticamente el mes actual, sin necesidad de seleccionarlo manualmente.
+
+✨ Novedades
+1.- Nuevo reporte "Servicios Actuales": consulta todos los servicios disponibles con su precio y tipo.
+2.- Nuevo reporte "Historial de Servicios Realizados": consulta todos los servicios realizados en un rango de fechas, con su estado de pago.
+3.- Ambos reportes se pueden exportar a PDF y Excel, igual que los reportes existentes.
+
+Gracias por seguir confiando en CrediTrack. Si encuentras algún inconveniente, repórtalo al equipo de soporte.
